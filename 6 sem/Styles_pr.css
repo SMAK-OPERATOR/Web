@@ -1,0 +1,80 @@
+
+.scaleclass:hover{
+    transform: scale(1.1);
+}
+
+.maingrid{
+    display: grid;
+    grid-template-columns: 1444px;
+    grid-template-rows: 70px 50px 132px 398px 150px 168px;
+}
+
+.mainbox1{        grid-row-start: 2;        grid-row-end: 3;    }
+.mainbox2{        grid-row-start: 4;        grid-row-end: 5;    }
+.mainbox3{        grid-row-start: 6;        grid-row-end: 7;    }
+
+#titlegrid{
+    display: grid;
+    grid-template-columns: 370px 368px 96px 20px 96px 20px 96px 20px 96px 20px 96px 20px 96px 20px 96px 20px 96px 274px;
+    text-align: center;
+}
+
+.titlegridbox1{        grid-column-start: 2;        grid-column-end: 3;    }
+.titlegridbox2{        grid-column-start: 3;        grid-column-end: 4;    }
+.titlegridbox3{        grid-column-start: 5;        grid-column-end: 6;    }
+.titlegridbox4{        grid-column-start: 7;        grid-column-end: 8;    }
+.titlegridbox5{        grid-column-start: 9;        grid-column-end: 10;    }
+.titlegridbox6{        grid-column-start: 11;        grid-column-end: 12;    }
+.titlegridbox7{        grid-column-start: 13;        grid-column-end: 14;    }
+.titlegridbox8{        grid-column-start: 15;        grid-column-end: 16;    }
+.titlegridbox9{        grid-column-start: 17;        grid-column-end: 18;    }
+
+.div1grid{
+    display: grid;
+    grid-template-columns: 390px 640px 136px 444px 390px;
+}
+
+.div1box1{        grid-column-start: 2;        grid-column-end: 3;    }
+.div1box2{        grid-column-start: 4;        grid-column-end: 5;    }
+
+.footergird{
+    display: grid;
+    grid-template-columns: 738px 444px 738px;
+}
+
+.footergridbox1{        grid-column-start: 2;        grid-column-end: 3;     }
+
+.div1_1grid{
+    display: grid;
+    grid-template-rows: 40px 34px 28px 70px 28px 70px 34px;
+}
+.div1_1box1{        grid-row-start: 2;        grid-row-end: 3;    }
+.div1_1box2{        grid-row-start: 4;        grid-row-end: 5;    }
+.div1_1box3{        grid-row-start: 6;        grid-row-end: 7;    }
+
+.div3_1grid{
+    display: grid;
+    grid-template-rows: 26px 26px 26px 26px 26px 26px;
+}
+.div3_1box1{        grid-row-start: 1;        grid-row-end: 2;    }
+.div3_1box2{        grid-row-start: 3;        grid-row-end: 4;    }
+.div3_1box3{        grid-row-start: 5;        grid-row-end: 6;    }
+
+p{
+    margin-block-start: 0px; 
+    margin-block-end: 0px;
+}
+
+ul{
+    margin-block-start: 0px; 
+    margin-block-end: 0px;
+}
+
+
+
+
+
+
+
+
+

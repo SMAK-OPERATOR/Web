@@ -1,0 +1,32 @@
+.titleText {
+    font-family: Enigmatic Unicode;
+    font-size: 22px;
+    color:#F891A0;
+    background-color: #F8F8F5;
+}
+
+#bodyMargins{
+    margin: 0;
+}
+
+a{
+    text-decoration: none
+}
+
+
+a:hover {
+    color: #0e97b9
+}
+
+a:visited {
+    color:#0A6B82;
+    text-decoration: none
+}
+
+
+
+
+
+
+
+
